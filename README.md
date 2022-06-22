@@ -1,1 +1,1 @@
-# EliteCorp
+# EliteCorp-Template
